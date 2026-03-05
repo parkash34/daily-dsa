@@ -41,7 +41,7 @@ I am solving problems consistently to strengthen my problem-solving skills, prep
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 0               |
-| Medium     | 0               |
+| Medium     | 1               |
 | Hard       | 0               |
 
 
