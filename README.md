@@ -40,7 +40,7 @@ I am solving problems consistently to strengthen my problem-solving skills, prep
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 0               |
+| Easy       | 3               |
 | Medium     | 1               |
 | Hard       | 0               |
 
@@ -66,4 +66,4 @@ This repository reflects my daily effort to become a strong problem solver.
 
 ---
 
-*Last Updated: 2026*
+*Last Updated: Mar-2026*
