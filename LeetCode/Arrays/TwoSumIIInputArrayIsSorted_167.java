@@ -1,3 +1,5 @@
+package LeetCode.Arrays;
+
 public class TwoSumIIInputArrayIsSorted_167 {
     public static int[] twoSum(int[] numbers, int target) {
         int i = 0, j = numbers.length-1;

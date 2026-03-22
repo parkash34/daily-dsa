@@ -1,3 +1,5 @@
+package LeetCode.Math;
+
 public class Reverse_Integer_7 {
 
     public static int reverse(int x) {

@@ -1,3 +1,5 @@
+package LeetCode.Arrays;
+
 class SquaresOfASortedArray_977 {
     public static int[] sortedSquares(int[] nums) {
         int[] result = new int[nums.length];
