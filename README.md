@@ -66,4 +66,10 @@ This repository reflects my daily effort to become a strong problem solver.
 
 ---
 
+## 👤 Author
+
+**Om Parkash** — [LinkedIn](https://www.linkedin.com/in/om-parkash-a93a87275) · [GitHub](https://github.com/parkash34)
+
+---
+
 *Last Updated: Mar-2026*
